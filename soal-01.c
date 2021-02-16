@@ -40,7 +40,7 @@ int main(){
 
         //output
         printf("Banyak Bilangan Ganjil: %d\n",count);
-        printf("Deret: \n");
+        printf("Deret:\n");
         for(i=0;i<N;i++){
             printf("%d ",deret[i]);
         }
