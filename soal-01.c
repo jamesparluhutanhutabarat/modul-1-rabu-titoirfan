@@ -24,7 +24,7 @@ int main(){
     if(N==0){
         //output
         printf("Banyak Bilangan Ganjil: 0\n");
-        printf("Deret: \nTidak Ada");
+        printf("Deret:\nTidak Ada");
     }
     else{
         //Buat Deret dan hitung banyak bilangan ganjil
