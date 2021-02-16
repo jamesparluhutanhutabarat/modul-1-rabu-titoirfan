@@ -5,7 +5,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "1",
-      "output": "1",
+      "output": "Banyak Bilangan Ganjil: 1\r\nDeret:\r\n1",
       "comparison": "included",
       "timeout": 10,
       "points": 10
@@ -15,7 +15,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "5",
-      "output": "1 1 2 3 5",
+      "output": "Banyak Bilangan Ganjil: 4\r\nDeret:\r\n1 1 2 3 5",
       "comparison": "included",
       "timeout": 10,
       "points": 10
@@ -25,7 +25,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "8",
-      "output": "1 1 2 3 5 8 13 21",
+      "output": "Banyak Bilangan Ganjil: 6\r\nDeret:\r\n1 1 2 3 5 8 13 21",
       "comparison": "included",
       "timeout": 10,
       "points": 10
@@ -35,7 +35,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "15",
-      "output": "1 1 2 3 5 8 13 21 34 55 89 144 233 377 610",
+      "output": "Banyak Bilangan Ganjil: 10\r\nDeret:\r\n1 1 2 3 5 8 13 21 34 55 89 144 233 377 610",
       "comparison": "included",
       "timeout": 10,
       "points": 10
@@ -45,7 +45,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "3",
-      "output": "1 1 2",
+      "output": "Banyak Bilangan Ganjil: 2\r\nDeret:\r\n1 1 2",
       "comparison": "included",
       "timeout": 10,
       "points": 10
@@ -55,7 +55,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "0",
-      "output": "Tidak Ada",
+      "output": "Banyak Bilangan Ganjil: 0\r\nDeret:\r\nTidak Ada",
       "comparison": "included",
       "timeout": 10,
       "points": 10
@@ -65,7 +65,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "10",
-      "output": "1 1 2 3 5 8 13 21 34 55",
+      "output": "Banyak Bilangan Ganjil: 7\r\nDeret:\r\n1 1 2 3 5 8 13 21 34 55",
       "comparison": "included",
       "timeout": 10,
       "points": 10
@@ -75,7 +75,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "6",
-      "output": "1 1 2 3 5 8",
+      "output": "Banyak Bilangan Ganjil: 4\r\nDeret:\r\n1 1 2 3 5 8",
       "comparison": "included",
       "timeout": 10,
       "points": 10
@@ -85,7 +85,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "13",
-      "output": "1 1 2 3 5 8 13 21 34 55 89 144 233",
+      "output": "Banyak Bilangan Ganjil: 9\r\nDeret:\r\n1 1 2 3 5 8 13 21 34 55 89 144 233",
       "comparison": "included",
       "timeout": 10,
       "points": 10
@@ -95,7 +95,7 @@
       "setup": "make soal-01",
       "run": "./soal-01",
       "input": "20",
-      "output": "1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765",
+      "output": "Banyak Bilangan Ganjil: 14\r\nDeret:\r\n1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765",
       "comparison": "included",
       "timeout": 10,
       "points": 10
