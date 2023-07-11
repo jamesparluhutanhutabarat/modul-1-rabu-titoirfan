@@ -7,7 +7,6 @@
 *Nama File        : -
 *Deskripsi        : Menghitung bilangan ganjil pada deret Fibonacci
 */
-//test
 #include <stdio.h>
 
 int main(){
